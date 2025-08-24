@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/subhankarchand](www.linkedin.com/in/subhankarchand)
+- 👨‍💻 Visit my Linkedin profile [www.linkedin.com/in/subhankarchand](www.linkedin.com/in/subhankarchand)
 
 - 💬 Ask me about **Artificial Intelligence**
 

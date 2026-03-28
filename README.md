@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Subhankar+Chand!;Data+Analyst+%26+ML+Engineer;AI+%7C+Computer+Vision+%7C+LangChain+%7C+RAG" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Subhankar+Chand!;Data+Analyst+%26+ML+Engineer;Building+with+AI+%7C+Computer+Vision+%7C+RAG" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="https://portfolio-orpin-omega-akmfzlhpjj.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Visit-0f172a?style=for-the-badge" /></a>
+  <a href="https://portfolio-orpin-omega-akmfzlhpjj.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/subhankarchand/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;
@@ -22,19 +22,19 @@
 
 ## 🚀 About Me
 
+```python
+class Subhankar:
+    role       = "Data Analyst & ML Engineer"
+    education  = "B.Tech CSE (AI & ML) · Brainware University · CGPA: 8.41"
+    building   = "Real-time AI Video Analytics · OpenVINO + YOLOv8"
+    learning   = "Advanced Deep Learning · Cloud Deployment"
+    interests  = ["Computer Vision", "LLM Agents", "RAG Systems", "MLOps"]
+    open_to    = ["ML Engineer", "AI Engineer", "Data Analyst"]
+    contact    = "subhankarchand66@gmail.com"
+    fun_fact   = "AI can process 1 million images in 2 seconds 😎"
+```
 
-subhankar = {
-    "role"      : "Data Analyst & ML Engineer",
-    "education" : "B.Tech CSE (AI & ML) — Brainware University | CGPA: 8.41",
-    "building"  : "Real-time AI Video Analytics with OpenVINO + YOLOv8",
-    "learning"  : "Advanced Deep Learning & Cloud Deployment",
-    "interests" : ["Computer Vision", "LLM Agents", "RAG Systems", "MLOps"],
-    "open_to"   : "ML Engineer | AI Engineer | Data Analyst roles & internships",
-    "contact"   : "subhankarchand66@gmail.com",
-    "fun_fact"  : "AI can process 1 million images in 2 seconds 😎"
-}
-
-
+---
 
 ## 🛠️ Tech Stack
 

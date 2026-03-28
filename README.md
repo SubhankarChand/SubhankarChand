@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-```python
+
 subhankar = {
     "role"      : "Data Analyst & ML Engineer",
     "education" : "B.Tech CSE (AI & ML) — Brainware University | CGPA: 8.41",
@@ -33,9 +33,8 @@ subhankar = {
     "contact"   : "subhankarchand66@gmail.com",
     "fun_fact"  : "AI can process 1 million images in 2 seconds 😎"
 }
-```
 
----
+
 
 ## 🛠️ Tech Stack
 

@@ -71,8 +71,8 @@ class Subhankar:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhankarchand&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=58A6FF&icon_color=58A6FF" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhankarchand&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=58A6FF" height="180px"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=subhankarchand&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=58A6FF&icon_color=58A6FF" height="180px"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=subhankarchand&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=58A6FF" height="180px"/>
 </p>
 
 <p align="center">
